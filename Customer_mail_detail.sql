@@ -1,0 +1,1 @@
+select customer_id + 'mail id is '+ email_id as CUSTOMER_MAIL_INFO from customer
